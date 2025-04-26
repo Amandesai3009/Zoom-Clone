@@ -1,1 +1,2 @@
 # Zoom-Clone
+Developed a Zoom Clone application using Flutter and Dart, implementing real-time video conferencing features. Integrated user authentication, meeting creation, joining functionalities, and live video/audio streaming. Utilized WebRTC and backend services to enable seamless communication across devices. Focused on responsive UI/UX design and efficient state management for a smooth user experience.
